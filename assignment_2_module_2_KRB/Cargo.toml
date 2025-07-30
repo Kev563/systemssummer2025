@@ -1,0 +1,6 @@
+[package]
+name = "assignment_2_module_2_KRB"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

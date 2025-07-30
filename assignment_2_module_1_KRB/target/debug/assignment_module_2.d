@@ -1,1 +1,1 @@
-/workspaces/systemssummer2025/assignment_module_2_KRB/target/debug/assignment_module_2: /workspaces/systemssummer2025/assignment_module_2_KRB/src/main.rs
+/workspaces/systemssummer2025/assignment_2_module_1_KRB/target/debug/assignment_module_2: /workspaces/systemssummer2025/assignment_2_module_1_KRB/src/main.rs
