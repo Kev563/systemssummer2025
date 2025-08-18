@@ -1,0 +1,5 @@
+/workspaces/systemssummer2025/assignment_5_Data_Fetcher_KRB/target/debug/build/ring-8d6dfd95f47687df/build_script_build-8d6dfd95f47687df.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ring-0.17.14/build.rs
+
+/workspaces/systemssummer2025/assignment_5_Data_Fetcher_KRB/target/debug/build/ring-8d6dfd95f47687df/build_script_build-8d6dfd95f47687df: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ring-0.17.14/build.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ring-0.17.14/build.rs:
